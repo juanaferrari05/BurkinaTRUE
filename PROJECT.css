@@ -1,0 +1,30 @@
+body{
+	background-color:#DFC1C5;
+}
+p{
+	font-family:verdana,"verdana Neue", sans serif;
+	color:#E2C6BB;
+li{
+
+}
+h1{
+	font-family: Verdana, "verdana Neue", sans-serif; 
+	color: #B69895;
+}
+h2{
+	font-family: Verdana, "verdana Neue", sans-serif;
+	color:#C995A2;
+}
+ol{
+	font-family: Verdana , "verdana Neue", sans-serif;
+	color: #AE8585;
+}
+table, td{
+	border-color:#85BE99;
+	border-width:2px
+	border-collapse: collapse;
+}
+table{
+	border-color: #B69895
+}
+
